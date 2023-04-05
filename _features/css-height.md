@@ -121,7 +121,7 @@ stats: {
     },
     hey: {
         desktop-webmail: {
-            "2020-06":"y"
+            "2020-06":"n #3"
         }
     },
     mail-ru: {
@@ -172,6 +172,7 @@ stats: {
 }
 notes_by_num: {
     "1": "Buggy. Replaces `height` by `min-height`.",
-    "2": "Partial. Not supported on `<body>`, `<span>`, `<div>` or `<p>` elements."
+    "2": "Partial. Not supported on `<body>`, `<span>`, `<div>` or `<p>` elements.",
+    "3": "Partial. Not supported on `<img>` element."
 }
 ---
